@@ -1,0 +1,98 @@
+[
+  {
+    "id": "0001",
+    "name": "3/4 sit-up",
+    "bodyPart": "waist",
+    "gifUrl": "https://d205bpvrqc9yn1.cloudfront.net/0001.gif",
+    "equipment": "body weight",
+    "target": "abs"
+  },
+  {
+    "id": "0002",
+    "name": "barbell pullover",
+    "bodyPart": "chest",
+    "gifUrl": "https://d205bpvrqc9yn1.cloudfront.net/0002.gif",
+    "equipment": "barbell",
+    "target": "chest"
+  },
+  {
+    "id": "0007",
+    "name": "alternate lateral pulldown",
+    "bodyPart": "back",
+    "gifUrl": "https://d205bpvrqc9yn1.cloudfront.net/0007.gif",
+    "equipment": "cable",
+    "target": "lats"
+  },
+  {
+    "id": "0015",
+    "name": "assisted parallel close grip pull-up",
+    "bodyPart": "back",
+    "gifUrl": "https://d205bpvrqc9yn1.cloudfront.net/0015.gif",
+    "equipment": "leverage machine",
+    "target": "lats"
+  },
+  {
+    "id": "0017",
+    "name": "assisted pull-up",
+    "bodyPart": "back",
+    "gifUrl": "https://d205bpvrqc9yn1.cloudfront.net/0017.gif",
+    "equipment": "leverage machine",
+    "target": "lats"
+  },
+  {
+    "id": "0020",
+    "name": "dumbbell bench press",
+    "bodyPart": "chest",
+    "gifUrl": "https://d205bpvrqc9yn1.cloudfront.net/0020.gif",
+    "equipment": "dumbbell",
+    "target": "pectorals"
+  },
+  {
+    "id": "0100",
+    "name": "standing calf raise",
+    "bodyPart": "lower legs",
+    "gifUrl": "https://d205bpvrqc9yn1.cloudfront.net/0100.gif",
+    "equipment": "body weight",
+    "target": "calves"
+  },
+  {
+    "id": "0200",
+    "name": "bicep curl",
+    "bodyPart": "upper arms",
+    "gifUrl": "https://d205bpvrqc9yn1.cloudfront.net/0200.gif",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "0300",
+    "name": "triceps dip",
+    "bodyPart": "upper arms",
+    "gifUrl": "https://d205bpvrqc9yn1.cloudfront.net/0300.gif",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "0400",
+    "name": "shoulder press",
+    "bodyPart": "shoulders",
+    "gifUrl": "https://d205bpvrqc9yn1.cloudfront.net/0400.gif",
+    "equipment": "barbell",
+    "target": "delts"
+  },
+  {
+    "id": "0500",
+    "name": "jumping jacks",
+    "bodyPart": "cardio",
+    "gifUrl": "https://d205bpvrqc9yn1.cloudfront.net/0500.gif",
+    "equipment": "body weight",
+    "target": "cardio"
+  },
+  {
+    "id": "0600",
+    "name": "neck stretch",
+    "bodyPart": "neck",
+    "gifUrl": "https://d205bpvrqc9yn1.cloudfront.net/0600.gif",
+    "equipment": "body weight",
+    "target": "neck"
+  }
+]
