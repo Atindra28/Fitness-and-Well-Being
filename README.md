@@ -1,19 +1,15 @@
 <h1 align="center">
-Shape Up App
+Fitness and Well-being
 </h1>
 <p align="center">
 MongoDB, Expressjs, React/Redux, Nodejs
 </p>
 
-Shape-Up is an easy-to-use fitness tracking web application. Its main goal is to assist users in their wellness journey, providing tools and features to help them achieve their fitness goals.
+Fitness and Well-being is an easy-to-use fitness tracking web application. Its main goal is to assist users in their wellness journey, providing tools and features to help them achieve their fitness goals.
 
 Your journey to wellness starts here!
 
-# Team Members
-- Muhamad Miguel Emmara
-- Travis Ogle
-- Sungwoo Cho
-- Ghokkul Muhunthan
+Developed by Atindra Dubey
 
 ## Prerequisites
 
@@ -21,7 +17,7 @@ Your journey to wellness starts here!
 - Node JS
 - NPM
 
-## Shape Up Features
+## Fitness and Well-being Features
 
 - Personal Account.
 - Diet Profile.
@@ -36,7 +32,7 @@ Your journey to wellness starts here!
 Clone the repo
 ```shell
 git clone https://github.com/Shape-Up-NZ/shape-up-app
-cd shape-up-app
+cd Fitness and Well-being
 npm install
 ```
 
@@ -83,4 +79,4 @@ This app build with below technologies
 
 ## License
 
-Copyright 2023. Code released under the [MIT license](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/LICENSE).
+Copyright 2025. 
