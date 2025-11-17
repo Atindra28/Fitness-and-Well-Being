@@ -72,10 +72,12 @@ This app build with below technologies
 # Screenshots
 
 ![Home Page](https://github.com/Atindra28/Fitness-and-Well-Being/blob/main/screenshots/homepage.png)
-![Workout Database](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/screenshots/workout-database.png)
-![Nutrition Checker](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/screenshots/nutrition-checker.png)
-![Diet Profile](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/screenshots/diet-profile.png)
-![Meal Plan](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/screenshots/meal-plan.png)
+![Workout Database](https://github.com/Atindra28/Fitness-and-Well-Being/blob/main/screenshots/workout-database.png)
+![Nutrition Checker](https://github.com/Atindra28/Fitness-and-Well-Being/blob/main/screenshots/nutrition-checker.png)
+![Diet Profile](https://github.com/Atindra28/Fitness-and-Well-Being/blob/main/screenshots/diet-profile.png)
+![Meal Plan](https://github.com/Atindra28/Fitness-and-Well-Being/blob/main/screenshots/meal-plan.png)
+![BMR Calculator](https://github.com/Atindra28/Fitness-and-Well-Being/blob/main/screenshots/bmr-calculator.png)
+
 
 ## License
 
