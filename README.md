@@ -31,7 +31,7 @@ Developed by Atindra Dubey
 ## Getting Started
 Clone the repo
 ```shell
-git clone https://github.com/Shape-Up-NZ/shape-up-app
+git clone https://github.com/Atindra28/Fitness-and-Well-Being
 cd Fitness and Well-being
 npm install
 ```
@@ -71,7 +71,7 @@ This app build with below technologies
 
 # Screenshots
 
-![Home Page](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/screenshots/homepage.png)
+![Home Page](https://github.com/Atindra28/Fitness-and-Well-Being/blob/main/screenshots/homepage.png)
 ![Workout Database](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/screenshots/workout-database.png)
 ![Nutrition Checker](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/screenshots/nutrition-checker.png)
 ![Diet Profile](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/screenshots/diet-profile.png)
